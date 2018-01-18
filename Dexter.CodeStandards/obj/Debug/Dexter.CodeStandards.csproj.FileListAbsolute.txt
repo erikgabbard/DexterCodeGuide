@@ -1,0 +1,8 @@
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\bin\Debug\Dexter.CodeStandards.dll
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\bin\Debug\Dexter.CodeStandards.pdb
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\bin\Debug\Dexter.CodeStandards.dll.CodeAnalysisLog.xml
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\bin\Debug\Dexter.CodeStandards.dll.lastcodeanalysissucceeded
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\obj\Debug\Dexter.CodeStandards.csprojResolveAssemblyReference.cache
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\obj\Debug\Dexter.CodeStandards.csproj.CoreCompileInputs.cache
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\obj\Debug\Dexter.CodeStandards.dll
+C:\Users\Erik Gabbard\Documents\CodePlayground\Dexter.CodeStandards\Dexter.CodeStandards\obj\Debug\Dexter.CodeStandards.pdb
